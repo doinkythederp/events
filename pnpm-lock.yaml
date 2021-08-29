@@ -1,0 +1,23 @@
+lockfileVersion: 5.3
+
+specifiers:
+  '@types/node': ^16.7.5
+  prettier: ^2.3.2
+
+dependencies:
+  '@types/node': 16.7.5
+
+devDependencies:
+  prettier: 2.3.2
+
+packages:
+
+  /@types/node/16.7.5:
+    resolution: {integrity: sha512-E7SpxDXoHEpmZ9C1gSqwadhE6zPRtf3g0gJy9Y51DsImnR5TcDs3QEiV/3Q7zOM8LWaZp5Gph71NK6ElVMG1IQ==}
+    dev: false
+
+  /prettier/2.3.2:
+    resolution: {integrity: sha512-lnJzDfJ66zkMy58OL5/NY5zp70S7Nz6KqcKkXYzn2tMVrNxvbqaBpg7H3qHaLxCJ5lNMsGuM8+ohS7cZrthdLQ==}
+    engines: {node: '>=10.13.0'}
+    hasBin: true
+    dev: true

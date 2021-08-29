@@ -1,0 +1,26 @@
+{
+  "name": "@doinkythederp/events",
+  "version": "1.0.0",
+  "description": "Type-safe event emitter which re-exports node's `events` module",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doinkythederp/events.git"
+  },
+  "author": "doinkythederp",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/doinkythederp/events/issues"
+  },
+  "homepage": "https://github.com/doinkythederp/events#readme",
+  "devDependencies": {
+    "prettier": "^2.3.2"
+  },
+  "dependencies": {
+    "@types/node": "^16.7.5"
+  }
+}
