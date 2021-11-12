@@ -4,7 +4,7 @@ type EventMap = Record<string, any>;
 type DefaultEvent = (...args: any[]) => void;
 
 /**
- * Provides typings for the `on`, `once`, `off`, and `emit` methods.
+ * EventEmmiter with typings for the `on`, `once`, `off`, and `emit` methods.
  *
  * ```ts
  * import EventEmitter = require('@doinkythederp/events');
